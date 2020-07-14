@@ -28,7 +28,7 @@ _Note: Review the exisiting HTML so you are familiar with the structure you are 
 <summary> <code> /index.html </code> </summary>
 
 ```html
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
